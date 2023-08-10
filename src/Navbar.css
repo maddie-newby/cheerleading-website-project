@@ -1,0 +1,26 @@
+.navbar {
+  background-color: rgb(73, 190, 183, 0.5);
+  opacity: 0.9;
+}
+
+.container-fluid {
+  max-width: 1200px;
+}
+
+.navbar-brand {
+  margin-right: 20px;
+}
+
+.navbar-nav {
+  gap: 10px;
+}
+
+.nav-link {
+  color: rgb(0, 0, 0, 0.8);
+  padding-bottom: 5px;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+  color: rgb(0, 0, 0);
+}
