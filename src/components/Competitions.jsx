@@ -301,11 +301,11 @@ const Competitions = () => {
               <td className="text-center"> </td>
               <td>
                 <a
-                  href="https://www.cheercity.co.uk/copy-of-frost-festival-22"
+                  href="https://soarcheeranddance.co.uk/events/soar-ascend-2024/"
                   target="_blank"
                   rel="noreferrer noonpener"
                 >
-                  Cheer City Frost Festival webpage
+                  SOAR Ascend webpage
                 </a>
               </td>
             </tr>
