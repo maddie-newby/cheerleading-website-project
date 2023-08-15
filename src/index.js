@@ -12,7 +12,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route path="" index element={<Home />} />
+          <Route index element={<Home />} />
           <Route path="about" element={<About />} />
           <Route path="competitions" element={<Competitions />} />
           <Route path="bid-teams" element={<BidTeams />} />
