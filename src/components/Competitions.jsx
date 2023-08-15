@@ -46,7 +46,7 @@ const Competitions = () => {
           </thead>
           <tbody>
             <tr>
-              <th scope="row">Future cheer</th>
+              <th scope="row">Future Cheer</th>
               <td>Jungle Fever</td>
               <td>18th-19th Nov 2023</td>
               <td>Bolton Arena, Bolton</td>

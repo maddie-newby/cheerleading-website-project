@@ -1,0 +1,18 @@
+{
+  "competitions": [
+    {
+      "event_provider": "Future Cheer",
+      "competition_name": "Jungle Fever",
+      "date": "18th-19th Nov 2023",
+      "location": "Bolton Arena, Bolton",
+      "sprung_floor": true,
+      "prep_divisions": true,
+      "asw_bids": false,
+      "summit_bids": false,
+      "iasf_usasf_worlds_bids": false,
+      "competition_webpage_link": "https://futurecheer.net/live-competitions/jungle-fever/",
+      "competition_webpage_name": "FC Jungle Fever webpage"
+    },
+    {}
+  ]
+}
