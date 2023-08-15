@@ -1,5 +1,5 @@
 .about {
-  max-width: 1200px;
+  max-width: 1500px;
   padding: 100px 12px 0 12px;
   margin: 0 auto;
 }
@@ -7,4 +7,8 @@
 header {
   font-size: 50px;
   margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
 }
