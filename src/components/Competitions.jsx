@@ -7,11 +7,11 @@ const Competitions = () => {
   return (
     <div className="competitions">
       <header>Competitions</header>
-      <p>
+      <h3 className="mb-5">
         Here is the list of UK competitions for the competition year 2023-2024:
-      </p>
+      </h3>
       <div className="table-responsive">
-        <table className="table">
+        <table className="table table-hover">
           <thead>
             <tr>
               <th scope="col" className="col-1">

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 export default function CompetitionsItem(props) {
   return (
-    <tbody>
+    <tbody className="table-group-divider">
       {props.competitionsData.map(function (competitionsItem, index) {
         return (
           <tr key={index} className="competitionsItem">
@@ -18,7 +18,9 @@ export default function CompetitionsItem(props) {
               )}
             </td>
             <td className="text-center">
-              {competitionsItem.prep_divions ? (
+              {competitionsItem.prep_divions === "n/a" ? (
+                "n/a"
+              ) : competitionsItem.prep_divions ? (
                 <i className="fa-solid fa-check"></i>
               ) : (
                 ""
@@ -32,26 +34,18 @@ export default function CompetitionsItem(props) {
               )}
             </td>
             <td className="text-center">
-              {competitionsItem.summit_bids_year ? (
-                `${(<i className="fa-solid fa-check"></i>)} (${
-                  competitionsItem.summit_bids_year
-                })`
-              ) : competitionsItem.summit_bids ? (
-                <i className="fa-solid fa-check"></i>
-              ) : (
-                ""
+              {competitionsItem.summit_bids && (
+                <i class="fa-solid fa-check"></i>
               )}
+              {competitionsItem.summit_bids_year &&
+                ` (${competitionsItem.summit_bids_year})`}
             </td>
             <td className="text-center">
-              {competitionsItem.worlds_bids_year ? (
-                `${(<i className="fa-solid fa-check"></i>)} (${
-                  competitionsItem.worlds_bids_year
-                })`
-              ) : competitionsItem.worlds ? (
-                <i className="fa-solid fa-check"></i>
-              ) : (
-                ""
+              {competitionsItem.worlds_bids && (
+                <i class="fa-solid fa-check"></i>
               )}
+              {competitionsItem.worlds_bids_year &&
+                ` (${competitionsItem.worlds_bids_year})`}
             </td>
             <td>
               <a
