@@ -1,1162 +1,1160 @@
-{
-  "competitions": [
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Jungle Fever",
-      "date": "18th-19th Nov 2023",
-      "location": "Bolton Arena, Bolton",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/jungle-fever/",
-        "name": "FC Jungle Fever webpage"
-      }
-    },
-    {
-      "event_provider": "SOAR",
-      "competition_name": "Rise - Dance Only",
-      "date": "19th Nov 2023",
-      "location": "Lagoon Leisure Centre, Paisley",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://soarcheeranddance.co.uk/events/soar-rise-2023/",
-        "name": "SOAR Rise webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Brings it on",
-      "date": "25th Nov 2023",
-      "location": "Gymnase Guy Kappes, Paris",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "summit_bids_year": 2024,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/brings-it-on/",
-        "name": "FC Brings it on webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Winter Wonderland",
-      "date": "2nd-3rd Dec 2023",
-      "location": "Essex University, Colchester",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/winter-wonderland/",
-        "name": "FC Winter Wonderland"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Winter Weekender",
-      "date": "9th-10th Dec 2023",
-      "location": "Winter Gardens, Blackpool",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/winter-weekender/",
-        "name": "BCA Winter Weekender webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Frost Festival",
-      "date": "9th-10th Dec 2023",
-      "location": "University of Warwick Sports Hub, Coventry",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-frost-festival-22",
-        "name": "Cheer City Frost Festival webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Christmas ICE Breaker - Extravaganza",
-      "date": "9th-10th Dec 2023",
-      "location": "Fenton Manor, Stoke",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/christmas-ice-breaker-2023/",
-        "name": "ICE Christmas ICE Breaker webpage"
-      }
-    },
-    {
-      "event_provider": "21CC",
-      "competition_name": "21CC Cheer & Dance Internationals",
-      "date": "16th Dec 2023",
-      "location": "Sport Ireland Campus, Dublin",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": true,
-      "worlds_bids_year": 2024,
-      "competition_webpage": {
-        "link": "http://www.21centurycheer.com/",
-        "name": "21CC Cheer & Dance Internationals webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Essentials - South",
-      "date": "20th Jan 2024",
-      "location": "K2 Arena, Crawley",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/fc-essentials/",
-        "name": "FC Essentials - South webpage"
-      }
-    },
-    {
-      "event_provider": "DC12",
-      "competition_name": "Retro",
-      "date": "20th-21th Jan 2024",
-      "location": "Wolverhampton",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.dc12.co.uk/retro",
-        "name": "DC12 Retro webpage"
-      }
-    },
-    {
-      "event_provider": "SOAR",
-      "competition_name": "Ascend",
-      "date": "20th-21th Jan 2024",
-      "location": "Ravenscraig Regional Sports Facility, Motherwell",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://soarcheeranddance.co.uk/events/soar-ascend-2024/",
-        "name": "SOAR Ascend webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Cheer Bid Battle",
-      "date": "27th Jan 2024",
-      "location": "University of Warwick Sports Hub, Coventry",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/cheer-bid-battle/",
-        "name": "BCA Cheer Bid Battle webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Super Classic",
-      "date": "27th-28th January 2024",
-      "location": "University of Warwick Sports Hub, Coventry",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/super-classic/",
-        "name": "BCA Super Classic webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Northern Cheer & Dance",
-      "date": "27th-28th January 2024",
-      "location": "BEC Manchester, Manchester",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/northern-championships/",
-        "name": "ICC Northern Championships webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Winter Spectacular",
-      "date": "3rd-4th Feb 2024",
-      "location": "Warwick University, Coventry",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-frost-festival-23",
-        "name": "Cheer City Winder Spectacular webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Spring Thaw Out",
-      "date": "3rd-4th Feb 2024",
-      "location": "Swansea",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-spring-thaw-out-2024/",
-        "name": "ICE Spring Thaw Out webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Southern Cheer & Dance",
-      "date": "3rd-4th Feb 2024",
-      "location": "Guildford Spectrum, Guildford",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/southern-championships/",
-        "name": "ICC Southern Championships webpage"
-      }
-    },
-    {
-      "event_provider": "DC12",
-      "competition_name": "Neon",
-      "date": "4th Feb 2024",
-      "location": "Leeds",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.dc12.co.uk/neonhull",
-        "name": "DC12 Neon webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Spring Open",
-      "date": "10th-11th Feb 2024",
-      "location": "Wildcats Arena, Nottingham",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-winter-spectacular-24",
-        "name": "Cheer City Spring Open webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Western Cheer & Dance",
-      "date": "10th-11th Feb 2024",
-      "location": "Bath & West Showground, Shepton Mallet",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/welsh-open/",
-        "name": "ICC Western webpage"
-      }
-    },
-    {
-      "event_provider": "Legacy",
-      "competition_name": "Stand Strong",
-      "date": "10th-11th Feb 2024",
-      "location": "Sport Central Northumbria University, Newcastle",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.legacycheeranddance.com/",
-        "name": "Legacy Cheer and Dance website"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Scottish Sensation",
-      "date": "10th-12th Feb 2024",
-      "location": "Scottish Event Campus, Glasgow",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/scottish-sensation/",
-        "name": "BCA Scottish Sensation webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Heart of England",
-      "date": "17th Feb 2024",
-      "location": "Manchester Central, Manchester",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/heart-of-england/",
-        "name": "FC Heart of England webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Frost Fest - Extravaganza",
-      "date": "17th-18th Feb 2024",
-      "location": "Antrim Forum, Northern Ireland",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-frost-fest-2024/",
-        "name": "ICE Frost Fest webpage"
-      }
-    },
-    {
-      "event_provider": "Legacy",
-      "competition_name": "Just Believe",
-      "date": "17th-18th Feb 2024",
-      "location": "Copper Box Arena, London",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.legacycheeranddance.com/",
-        "name": "Legacy Cheer and Dance website"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "University Nationals",
-      "date": "18th Feb 2024",
-      "location": "Manchester Central, Manchester",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/university-nationals/",
-        "name": "FC University Nationals webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Southern Pt.2 Championship",
-      "date": "24th Feb 2024",
-      "location": "Guildford Spectrum, Guildford",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/icc-southern-pt-2/",
-        "name": "ICC Southern Pt.2 Championships webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "UDE Dance Fiesta",
-      "date": "25th Feb 2024",
-      "location": "The Edge, Leeds",
-      "sprung_floor": true,
-      "prep_divions": "n/a",
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ude-dance-fiesta-2024/",
-        "name": "ICE UDE Dance Fiesta webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Allstar Championships",
-      "date": "2nd-3rd Mar 2024",
-      "location": "Loughborough University, Loughborough",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-spring-open-24",
-        "name": "Cheer City Allstar Championship webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Circus Spectacular",
-      "date": "2nd-3rd Mar 2024",
-      "location": "English Institute of Sport, Sheffield",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/circus-spectacular/",
-        "name": "FC Circus Spectacular webpage"
-      }
-    },
-    {
-      "event_provider": "Jamfest",
-      "competition_name": "Northern Jam",
-      "date": "2nd-3rd Mar 2024",
-      "location": "Blackpool",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": true,
-      "summit_bids_year": 2024,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.varsity.com/jf/jamfest-northern-jam/",
-        "name": "Jamfest Northern Jam webpage"
-      }
-    },
-    {
-      "event_provider": "SOAR",
-      "competition_name": "Reign Supreme",
-      "date": "2nd-3rd Mar 2024",
-      "location": "Meadowbank Sports Centre, Edinburgh",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://soarcheeranddance.co.uk/events/reign-supreme-2024/",
-        "name": "SOAR Reign Supreme webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Essentials - North",
-      "date": "3rd Mar 2024",
-      "location": "English Institute of Sport, Sheffield",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/essentials-north/",
-        "name": "FC Essentials - North webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Cymru Clash",
-      "date": "9th-10th Mar 2024",
-      "location": "ICC Wales, Newport",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/cymru-clash/",
-        "name": "BCA Cymru Clash webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Sub Zero - Extravaganza",
-      "date": "9th-10th Mar 2024",
-      "location": "Ravenscraig, Scotland",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-sub-zero/",
-        "name": "ICE Sub Zero webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "University Nationals",
-      "date": "16th-17th Mar 2024",
-      "location": "International Centre, Telford",
-      "sprung_floor": true,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/university-nationals/",
-        "name": "BCA Univerity Nationals webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Spotlight Showdown",
-      "date": "16th-17th Mar 2024",
-      "location": "Essex University, Colchester",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/spotlight-showdown/",
-        "name": "FC Spotlight Showdown webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "ICE Cooler - Extra Cool & Too Cool For School",
-      "date": "16th-17th Mar 2024",
-      "location": "Fenton Manor, Stoke",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-cooler-2024/",
-        "name": "ICE Cooler webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "British Open",
-      "date": "16th-17th Mar 2024",
-      "location": "Motorpoint Arena, Nottingham",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": true,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/british-open/",
-        "name": "ICC British Open & University Nationals webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Dance Revolution",
-      "date": "17th Mar 2024",
-      "location": "International Centre, Telford",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/dance-revolution/",
-        "name": "BCA Dance Revolution webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Dance Worlds Showdown",
-      "date": "16th Mar 2024",
-      "location": "International Centre, Telford",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/dance-bid-battle/",
-        "name": "BCA Dance Bid Battle webpage"
-      }
-    },
-    {
-      "event_provider": "DC12",
-      "competition_name": "Crusade",
-      "date": "23rd March 2024",
-      "location": "Manchester",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.dc12.co.uk/crusademanchester",
-        "name": "DC12 Crusade webpage"
-      }
-    },
-    {
-      "event_provider": "Legacy",
-      "competition_name": "Alpha & Omega",
-      "date": "23rd-24th March",
-      "location": "Resorts World Arena, Birmingham",
-      "sprung_floor": true,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.legacycheeranddance.com/",
-        "name": "Legacy Cheer and Dance website"
-      }
-    },
-    {
-      "event_provider": "Legacy",
-      "competition_name": "Dream Extreme",
-      "date": "23rd-24th March",
-      "location": "Resorts World Arena, Birmingham",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.legacycheeranddance.com/",
-        "name": "Legacy Cheer and Dance website"
-      }
-    },
-    {
-      "event_provider": "Cheer Festival",
-      "competition_name": "Nationals",
-      "date": "30th-31st Mar 2024",
-      "location": "Dundee",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.instagram.com/cheerfestival_events/",
-        "name": "Cheer Festival Instagram page"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Spring Spirit",
-      "date": "6th-7th Apr 2024",
-      "location": "K2 Leisure Centre, Crawley",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/spring-spirit/",
-        "name": "BCA Spring Spirit webpage"
-      }
-    },
-    {
-      "event_provider": "DC12",
-      "competition_name": "Apex Nationals",
-      "date": "6th-7th Apr 2024",
-      "location": "Cardiff",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.dc12.co.uk/competitions",
-        "name": "DC12 competitions webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Adventure in Atlantis",
-      "date": "6th-7th Apr 2024",
-      "location": "NAEC, Stoneleigh",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/adventure-in-atlantis/",
-        "name": "FC Adventure in Atlantis webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Future Dance - Steel the Show",
-      "date": "13th Apr 2024",
-      "location": "Magna Arena, Rotherham",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/steel-the-show/",
-        "name": "FC Future Dance - Steel the Show webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Future Dance - Own the Floor",
-      "date": "4th May 2024",
-      "location": "MK Arena, Milton Keynes",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/future-dance/",
-        "name": "FC Future Dance - Own the Floor webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Essentials - Nationals",
-      "date": "5th May 2024",
-      "location": "MK Arena, Milton Keynes",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/essentials-nationals/",
-        "name": "FC Future Dance - Own the Floor webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Schools Out",
-      "date": "5th May 2024",
-      "location": "BIC, Bournemouth",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/schools-out/",
-        "name": "FC Schools Out webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Amsterdam",
-      "date": "11th May 2024",
-      "location": "Sporthallen Zuid, Amsterdam",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/fc-amsterdam/",
-        "name": "FC Amsterdam webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Summer Showdown",
-      "date": "11th-12th May 2024",
-      "location": "Warwick University, Coventry",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-allstars-championship-24",
-        "name": "Cheer City Summer Showdown webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer Festival",
-      "competition_name": "Regionals",
-      "date": "11th-12th May 2024",
-      "location": "Inverness",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.instagram.com/cheerfestival_events/",
-        "name": "Cheer Festival Instagram page"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "ICE Blast - Extra Cool",
-      "date": "11th-12th May 2024",
-      "location": "K2 Arena, Crawley",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-blast-2024/",
-        "name": "ICE Blast webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Summer Games",
-      "date": "18th-19th May 2024",
-      "location": "Hertfordshire University",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-summer-showdown-24",
-        "name": "Cheer City Summer Games webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Summer Meltdown - Extra Cool",
-      "date": "18th-19th May 2024",
-      "location": "Doncaster Dome",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-summer-meltdown-2024/",
-        "name": "ICE Summer Meltdown webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "Superhero Spirit Challenge",
-      "date": "24th-26th May 2024",
-      "location": "Braehead Arena, Glasgow",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/superhero-spirit-challenge/",
-        "name": "FC Superhero Spirit Challenge webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Allstar Nationals",
-      "date": "25th-26th May 2024",
-      "location": "International Centre, Telford",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": true,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/allstar-nationals/",
-        "name": "BCA Allstar Nationals webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "UDE Let's Dance",
-      "date": "26th May 2024",
-      "location": "The Hub, Walsall",
-      "sprung_floor": false,
-      "prep_divions": "n/a",
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ude-lets-dance-2024/",
-        "name": "ICE UDE Let's Dance webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Summer Showdown",
-      "date": "1st-2nd Jun 2024",
-      "location": "Meadowbank Sports Centre, Edinburgh",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/summer-showdown/",
-        "name": "BCA Summer Showdown webpage"
-      }
-    },
-    {
-      "event_provider": "Cheer City",
-      "competition_name": "Nationals",
-      "date": "1st-2nd Jun 2024",
-      "location": "Loughborough University, Loughborough",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheercity.co.uk/copy-of-summer-games-24",
-        "name": "Cheer City Nationals webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Southern Chill - Extravaganza",
-      "date": "1st-2nd Jun 2024",
-      "location": "Worcester University Arena, Worcester",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-southern-chill-2024/",
-        "name": "ICE Southern Chill webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Southern Jam",
-      "date": "8th June 2024",
-      "location": "Guildford Spectrum, Guildford",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/icc-southern-jam/",
-        "name": "ICC Southern Jam webpage"
-      }
-    },
-    {
-      "event_provider": "BCA",
-      "competition_name": "Summer Spotlight",
-      "date": "8th-9th Jun 2024",
-      "location": "Sport Central, Newcastle",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://www.cheerleading.org.uk/summer-spotlight/",
-        "name": "BCA Summer Spotlight webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Big Chill - Extravaganza",
-      "date": "8th-9th Jun 2024",
-      "location": "Bushfield Leisure Centre, Peterborough",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-big-chill-2024/",
-        "name": "ICE Big Chill webpage"
-      }
-    },
-    {
-      "event_provider": "Legacy",
-      "competition_name": "Live Your Legacy",
-      "date": "8th-9th Jun 2024",
-      "location": "Resorts World Arena, Birmingham",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": true,
-      "competition_webpage": {
-        "link": "https://www.legacycheeranddance.com/",
-        "name": "Legacy Cheer and Dance website"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Barcelona",
-      "date": "15th Jun 2024",
-      "location": "Palau Olimpic Stadium, Barcelona",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/fc-barcelona/",
-        "name": "FC Barcelona webpage"
-      }
-    },
-    {
-      "event_provider": "SOAR",
-      "competition_name": "Zero Gravity",
-      "date": "15th-16th Jun 2024",
-      "location": "Lagoon Leisure Centre, Paisley",
-      "sprung_floor": false,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://soarcheeranddance.co.uk/events/soar-zero-gravity-2024/",
-        "name": "SOAR Zero Gravity webpage"
-      }
-    },
-    {
-      "event_provider": "Jamfest",
-      "competition_name": "Jamfest Europe",
-      "date": "21st-23rd June 2024",
-      "location": "M&S Bank Arena, Liverpool",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": true,
-      "competition_webpage": {
-        "link": "https://www.varsity.com/jf/jamfest-europe/",
-        "name": "Jamfest Europe webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Battle of Champions",
-      "date": "22nd June 2024",
-      "location": "Motorpoint Arena, Nottingham",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/battle-of-champions/",
-        "name": "ICC Battle of Champions webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "British Open Part 2",
-      "date": "23rd June 2024",
-      "location": "Motorpoint Arena, Nottingham",
-      "sprung_floor": true,
-      "prep_divions": true,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/british-open-speciality-nationals/",
-        "name": "ICC British Open Pt.2 webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "ICE Championships",
-      "date": "29th-30th Jun 2024",
-      "location": "Fenton Manor, Stoke",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://incrediblycoolevents.co.uk/events/ice-championships-2024/",
-        "name": "ICE Championships webpage"
-      }
-    },
-    {
-      "event_provider": "Future Cheer",
-      "competition_name": "FC Internationals",
-      "date": "5th-7th Jul 2024",
-      "location": "BIC, Bournemouth",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": true,
-      "worlds_bids": true,
-      "competition_webpage": {
-        "link": "https://futurecheer.net/live-competitions/fc-internationals/",
-        "name": "FC Internationals webpage"
-      }
-    },
-    {
-      "event_provider": "ICC",
-      "competition_name": "Summer Jam",
-      "date": "20th-21st July",
-      "location": "Norbeck Castle Hotel, Blackpool",
-      "sprung_floor": true,
-      "prep_divions": false,
-      "asw_bids": false,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "https://w-cheer.net/icc-competitions/summer-jam/",
-        "name": "ICC Summer Jam webpage"
-      }
-    },
-    {
-      "event_provider": "ICE",
-      "competition_name": "Northern Frostbite",
-      "date": "tbc",
-      "location": "tbc",
-      "sprung_floor": false,
-      "prep_divions": false,
-      "asw_bids": true,
-      "summit_bids": false,
-      "worlds_bids": false,
-      "competition_webpage": {
-        "link": "tbc",
-        "name": "tbc"
-      }
+[
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Jungle Fever",
+    "date": "18th-19th Nov 2023",
+    "location": "Bolton Arena, Bolton",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/jungle-fever/",
+      "name": "FC Jungle Fever webpage"
     }
-  ]
-}
+  },
+  {
+    "event_provider": "SOAR",
+    "competition_name": "Rise - Dance Only",
+    "date": "19th Nov 2023",
+    "location": "Lagoon Leisure Centre, Paisley",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://soarcheeranddance.co.uk/events/soar-rise-2023/",
+      "name": "SOAR Rise webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Brings it on",
+    "date": "25th Nov 2023",
+    "location": "Gymnase Guy Kappes, Paris",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "summit_bids_year": 2024,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/brings-it-on/",
+      "name": "FC Brings it on webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Winter Wonderland",
+    "date": "2nd-3rd Dec 2023",
+    "location": "Essex University, Colchester",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/winter-wonderland/",
+      "name": "FC Winter Wonderland"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Winter Weekender",
+    "date": "9th-10th Dec 2023",
+    "location": "Winter Gardens, Blackpool",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/winter-weekender/",
+      "name": "BCA Winter Weekender webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Frost Festival",
+    "date": "9th-10th Dec 2023",
+    "location": "University of Warwick Sports Hub, Coventry",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-frost-festival-22",
+      "name": "Cheer City Frost Festival webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Christmas ICE Breaker - Extravaganza",
+    "date": "9th-10th Dec 2023",
+    "location": "Fenton Manor, Stoke-on-Trent",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/christmas-ice-breaker-2023/",
+      "name": "ICE Christmas ICE Breaker webpage"
+    }
+  },
+  {
+    "event_provider": "21CC",
+    "competition_name": "21CC Cheer & Dance Internationals",
+    "date": "16th Dec 2023",
+    "location": "Sport Ireland Campus, Dublin",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": true,
+    "worlds_bids_year": 2024,
+    "competition_webpage": {
+      "link": "http://www.21centurycheer.com/",
+      "name": "21CC Cheer & Dance Internationals webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Essentials - South",
+    "date": "20th Jan 2024",
+    "location": "K2 Arena, Crawley",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/fc-essentials/",
+      "name": "FC Essentials - South webpage"
+    }
+  },
+  {
+    "event_provider": "DC12",
+    "competition_name": "Retro",
+    "date": "20th-21th Jan 2024",
+    "location": "Wolverhampton",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.dc12.co.uk/retro",
+      "name": "DC12 Retro webpage"
+    }
+  },
+  {
+    "event_provider": "SOAR",
+    "competition_name": "Ascend",
+    "date": "20th-21th Jan 2024",
+    "location": "Ravenscraig Regional Sports Facility, Motherwell",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://soarcheeranddance.co.uk/events/soar-ascend-2024/",
+      "name": "SOAR Ascend webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Cheer Bid Battle",
+    "date": "27th Jan 2024",
+    "location": "University of Warwick Sports Hub, Coventry",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/cheer-bid-battle/",
+      "name": "BCA Cheer Bid Battle webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Super Classic",
+    "date": "27th-28th January 2024",
+    "location": "University of Warwick Sports Hub, Coventry",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/super-classic/",
+      "name": "BCA Super Classic webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Northern Cheer & Dance",
+    "date": "27th-28th January 2024",
+    "location": "BEC Arena, Manchester",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/northern-championships/",
+      "name": "ICC Northern Championships webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Winter Spectacular",
+    "date": "3rd-4th Feb 2024",
+    "location": "University of Warwick Sports Hub, Coventry",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-frost-festival-23",
+      "name": "Cheer City Winder Spectacular webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Spring Thaw Out",
+    "date": "3rd-4th Feb 2024",
+    "location": "LC Swansea, Swansea",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-spring-thaw-out-2024/",
+      "name": "ICE Spring Thaw Out webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Southern Cheer & Dance",
+    "date": "3rd-4th Feb 2024",
+    "location": "Guildford Spectrum, Guildford",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/southern-championships/",
+      "name": "ICC Southern Championships webpage"
+    }
+  },
+  {
+    "event_provider": "DC12",
+    "competition_name": "Neon",
+    "date": "4th Feb 2024",
+    "location": "Leeds",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.dc12.co.uk/neonhull",
+      "name": "DC12 Neon webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Spring Open",
+    "date": "10th-11th Feb 2024",
+    "location": "Wildcats Arena, Nottingham",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-winter-spectacular-24",
+      "name": "Cheer City Spring Open webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Western Cheer & Dance",
+    "date": "10th-11th Feb 2024",
+    "location": "Bath & West Showground, Shepton Mallet",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/welsh-open/",
+      "name": "ICC Western webpage"
+    }
+  },
+  {
+    "event_provider": "Legacy",
+    "competition_name": "Stand Strong",
+    "date": "10th-11th Feb 2024",
+    "location": "Sport Central Northumbria University, Newcastle",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.legacycheeranddance.com/",
+      "name": "Legacy Cheer and Dance website"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Scottish Sensation",
+    "date": "10th-12th Feb 2024",
+    "location": "Scottish Event Campus, Glasgow",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/scottish-sensation/",
+      "name": "BCA Scottish Sensation webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Heart of England",
+    "date": "17th Feb 2024",
+    "location": "Manchester Central, Manchester",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/heart-of-england/",
+      "name": "FC Heart of England webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Frost Fest - Extravaganza",
+    "date": "17th-18th Feb 2024",
+    "location": "Antrim Forum, Northern Ireland",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-frost-fest-2024/",
+      "name": "ICE Frost Fest webpage"
+    }
+  },
+  {
+    "event_provider": "Legacy",
+    "competition_name": "Just Believe",
+    "date": "17th-18th Feb 2024",
+    "location": "Copper Box Arena, London",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.legacycheeranddance.com/",
+      "name": "Legacy Cheer and Dance website"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "University Nationals",
+    "date": "18th Feb 2024",
+    "location": "Manchester Central, Manchester",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/university-nationals/",
+      "name": "FC University Nationals webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Southern Pt.2 Championship",
+    "date": "24th Feb 2024",
+    "location": "Guildford Spectrum, Guildford",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/icc-southern-pt-2/",
+      "name": "ICC Southern Pt.2 Championships webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "UDE Dance Fiesta",
+    "date": "25th Feb 2024",
+    "location": "The Edge, Leeds",
+    "sprung_floor": true,
+    "prep_divions": "n/a",
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ude-dance-fiesta-2024/",
+      "name": "ICE UDE Dance Fiesta webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Allstar Championships",
+    "date": "2nd-3rd Mar 2024",
+    "location": "Loughborough University, Loughborough",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-spring-open-24",
+      "name": "Cheer City Allstar Championship webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Circus Spectacular",
+    "date": "2nd-3rd Mar 2024",
+    "location": "English Institute of Sport, Sheffield",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/circus-spectacular/",
+      "name": "FC Circus Spectacular webpage"
+    }
+  },
+  {
+    "event_provider": "Jamfest",
+    "competition_name": "Northern Jam",
+    "date": "2nd-3rd Mar 2024",
+    "location": "Blackpool",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": true,
+    "summit_bids_year": 2024,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.varsity.com/jf/jamfest-northern-jam/",
+      "name": "Jamfest Northern Jam webpage"
+    }
+  },
+  {
+    "event_provider": "SOAR",
+    "competition_name": "Reign Supreme",
+    "date": "2nd-3rd Mar 2024",
+    "location": "Meadowbank Sports Centre, Edinburgh",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://soarcheeranddance.co.uk/events/reign-supreme-2024/",
+      "name": "SOAR Reign Supreme webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Essentials - North",
+    "date": "3rd Mar 2024",
+    "location": "English Institute of Sport, Sheffield",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/essentials-north/",
+      "name": "FC Essentials - North webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Cymru Clash",
+    "date": "9th-10th Mar 2024",
+    "location": "ICC Wales, Newport",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/cymru-clash/",
+      "name": "BCA Cymru Clash webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Sub Zero - Extravaganza",
+    "date": "9th-10th Mar 2024",
+    "location": "Ravenscraig Regional Sports Facility, Motherwell",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-sub-zero/",
+      "name": "ICE Sub Zero webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "University Nationals",
+    "date": "16th-17th Mar 2024",
+    "location": "International Centre, Telford",
+    "sprung_floor": true,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/university-nationals/",
+      "name": "BCA Univerity Nationals webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Spotlight Showdown",
+    "date": "16th-17th Mar 2024",
+    "location": "Essex University, Colchester",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/spotlight-showdown/",
+      "name": "FC Spotlight Showdown webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "ICE Cooler - Extra Cool & Too Cool For School",
+    "date": "16th-17th Mar 2024",
+    "location": "Fenton Manor, Stoke-on-Trent",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-cooler-2024/",
+      "name": "ICE Cooler webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "British Open",
+    "date": "16th-17th Mar 2024",
+    "location": "Motorpoint Arena, Nottingham",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": true,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/british-open/",
+      "name": "ICC British Open & University Nationals webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Dance Revolution",
+    "date": "17th Mar 2024",
+    "location": "International Centre, Telford",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/dance-revolution/",
+      "name": "BCA Dance Revolution webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Dance Worlds Showdown",
+    "date": "16th Mar 2024",
+    "location": "International Centre, Telford",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/dance-bid-battle/",
+      "name": "BCA Dance Bid Battle webpage"
+    }
+  },
+  {
+    "event_provider": "DC12",
+    "competition_name": "Crusade",
+    "date": "23rd March 2024",
+    "location": "Manchester",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.dc12.co.uk/crusademanchester",
+      "name": "DC12 Crusade webpage"
+    }
+  },
+  {
+    "event_provider": "Legacy",
+    "competition_name": "Alpha & Omega",
+    "date": "23rd-24th March",
+    "location": "Resorts World Arena, Birmingham",
+    "sprung_floor": true,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.legacycheeranddance.com/",
+      "name": "Legacy Cheer and Dance website"
+    }
+  },
+  {
+    "event_provider": "Legacy",
+    "competition_name": "Dream Extreme",
+    "date": "23rd-24th March",
+    "location": "Resorts World Arena, Birmingham",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.legacycheeranddance.com/",
+      "name": "Legacy Cheer and Dance website"
+    }
+  },
+  {
+    "event_provider": "Cheer Festival",
+    "competition_name": "Nationals",
+    "date": "30th-31st Mar 2024",
+    "location": "Dundee",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.instagram.com/cheerfestival_events/",
+      "name": "Cheer Festival Instagram page"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Spring Spirit",
+    "date": "6th-7th Apr 2024",
+    "location": "K2 Leisure Centre, Crawley",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/spring-spirit/",
+      "name": "BCA Spring Spirit webpage"
+    }
+  },
+  {
+    "event_provider": "DC12",
+    "competition_name": "Apex Nationals",
+    "date": "6th-7th Apr 2024",
+    "location": "Cardiff",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.dc12.co.uk/competitions",
+      "name": "DC12 competitions webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Adventure in Atlantis",
+    "date": "6th-7th Apr 2024",
+    "location": "NAEC, Stoneleigh",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/adventure-in-atlantis/",
+      "name": "FC Adventure in Atlantis webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Future Dance - Steel the Show",
+    "date": "13th Apr 2024",
+    "location": "Magna Arena, Rotherham",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/steel-the-show/",
+      "name": "FC Future Dance - Steel the Show webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Future Dance - Own the Floor",
+    "date": "4th May 2024",
+    "location": "MK Arena, Milton Keynes",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/future-dance/",
+      "name": "FC Future Dance - Own the Floor webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Essentials - Nationals",
+    "date": "5th May 2024",
+    "location": "MK Arena, Milton Keynes",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/essentials-nationals/",
+      "name": "FC Future Dance - Own the Floor webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Schools Out",
+    "date": "5th May 2024",
+    "location": "MK Arena, Milton Keynes",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/schools-out/",
+      "name": "FC Schools Out webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Amsterdam",
+    "date": "11th May 2024",
+    "location": "Sporthallen Zuid, Amsterdam",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/fc-amsterdam/",
+      "name": "FC Amsterdam webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Summer Showdown",
+    "date": "11th-12th May 2024",
+    "location": "University of Warwick Sports Hub, Coventry",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-allstars-championship-24",
+      "name": "Cheer City Summer Showdown webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer Festival",
+    "competition_name": "Regionals",
+    "date": "11th-12th May 2024",
+    "location": "Inverness",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.instagram.com/cheerfestival_events/",
+      "name": "Cheer Festival Instagram page"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "ICE Blast - Extra Cool",
+    "date": "11th-12th May 2024",
+    "location": "K2 Arena, Crawley",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-blast-2024/",
+      "name": "ICE Blast webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Summer Games",
+    "date": "18th-19th May 2024",
+    "location": "Hertfordshire Sports Village, Hatfield",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-summer-showdown-24",
+      "name": "Cheer City Summer Games webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Summer Meltdown - Extra Cool",
+    "date": "18th-19th May 2024",
+    "location": "Doncaster Dome, Doncaster",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-summer-meltdown-2024/",
+      "name": "ICE Summer Meltdown webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "Superhero Spirit Challenge",
+    "date": "24th-26th May 2024",
+    "location": "Braehead Arena, Glasgow",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/superhero-spirit-challenge/",
+      "name": "FC Superhero Spirit Challenge webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Allstar Nationals",
+    "date": "25th-26th May 2024",
+    "location": "International Centre, Telford",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": true,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/allstar-nationals/",
+      "name": "BCA Allstar Nationals webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "UDE Let's Dance",
+    "date": "26th May 2024",
+    "location": "The Hub, Walsall",
+    "sprung_floor": false,
+    "prep_divions": "n/a",
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ude-lets-dance-2024/",
+      "name": "ICE UDE Let's Dance webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Summer Showdown",
+    "date": "1st-2nd Jun 2024",
+    "location": "Meadowbank Sports Centre, Edinburgh",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/summer-showdown/",
+      "name": "BCA Summer Showdown webpage"
+    }
+  },
+  {
+    "event_provider": "Cheer City",
+    "competition_name": "Nationals",
+    "date": "1st-2nd Jun 2024",
+    "location": "Loughborough University, Loughborough",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheercity.co.uk/copy-of-summer-games-24",
+      "name": "Cheer City Nationals webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Southern Chill - Extravaganza",
+    "date": "1st-2nd Jun 2024",
+    "location": "Worcester University Arena, Worcester",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-southern-chill-2024/",
+      "name": "ICE Southern Chill webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Southern Jam",
+    "date": "8th June 2024",
+    "location": "Guildford Spectrum, Guildford",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/icc-southern-jam/",
+      "name": "ICC Southern Jam webpage"
+    }
+  },
+  {
+    "event_provider": "BCA",
+    "competition_name": "Summer Spotlight",
+    "date": "8th-9th Jun 2024",
+    "location": "Sport Central, Newcastle",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://www.cheerleading.org.uk/summer-spotlight/",
+      "name": "BCA Summer Spotlight webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Big Chill - Extravaganza",
+    "date": "8th-9th Jun 2024",
+    "location": "Bushfield Leisure Centre, Peterborough",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-big-chill-2024/",
+      "name": "ICE Big Chill webpage"
+    }
+  },
+  {
+    "event_provider": "Legacy",
+    "competition_name": "Live Your Legacy",
+    "date": "8th-9th Jun 2024",
+    "location": "Resorts World Arena, Birmingham",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": true,
+    "competition_webpage": {
+      "link": "https://www.legacycheeranddance.com/",
+      "name": "Legacy Cheer and Dance website"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Barcelona",
+    "date": "15th Jun 2024",
+    "location": "Palau Olimpic Stadium, Barcelona",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/fc-barcelona/",
+      "name": "FC Barcelona webpage"
+    }
+  },
+  {
+    "event_provider": "SOAR",
+    "competition_name": "Zero Gravity",
+    "date": "15th-16th Jun 2024",
+    "location": "Lagoon Leisure Centre, Paisley",
+    "sprung_floor": false,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://soarcheeranddance.co.uk/events/soar-zero-gravity-2024/",
+      "name": "SOAR Zero Gravity webpage"
+    }
+  },
+  {
+    "event_provider": "Jamfest",
+    "competition_name": "Jamfest Europe",
+    "date": "21st-23rd June 2024",
+    "location": "M&S Bank Arena, Liverpool",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": true,
+    "competition_webpage": {
+      "link": "https://www.varsity.com/jf/jamfest-europe/",
+      "name": "Jamfest Europe webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Battle of Champions",
+    "date": "22nd June 2024",
+    "location": "Motorpoint Arena, Nottingham",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/battle-of-champions/",
+      "name": "ICC Battle of Champions webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "British Open Part 2",
+    "date": "23rd June 2024",
+    "location": "Motorpoint Arena, Nottingham",
+    "sprung_floor": true,
+    "prep_divions": true,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/british-open-speciality-nationals/",
+      "name": "ICC British Open Pt.2 webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "ICE Championships",
+    "date": "29th-30th Jun 2024",
+    "location": "Fenton Manor, Stoke",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://incrediblycoolevents.co.uk/events/ice-championships-2024/",
+      "name": "ICE Championships webpage"
+    }
+  },
+  {
+    "event_provider": "Future Cheer",
+    "competition_name": "FC Internationals",
+    "date": "5th-7th Jul 2024",
+    "location": "BIC, Bournemouth",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": true,
+    "worlds_bids": true,
+    "competition_webpage": {
+      "link": "https://futurecheer.net/live-competitions/fc-internationals/",
+      "name": "FC Internationals webpage"
+    }
+  },
+  {
+    "event_provider": "ICC",
+    "competition_name": "Summer Jam",
+    "date": "20th-21st July",
+    "location": "Norbeck Castle Hotel, Blackpool",
+    "sprung_floor": true,
+    "prep_divions": false,
+    "asw_bids": false,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": "https://w-cheer.net/icc-competitions/summer-jam/",
+      "name": "ICC Summer Jam webpage"
+    }
+  },
+  {
+    "event_provider": "ICE",
+    "competition_name": "Northern Frostbite",
+    "date": "tbc",
+    "location": "tbc",
+    "sprung_floor": false,
+    "prep_divions": false,
+    "asw_bids": true,
+    "summit_bids": false,
+    "worlds_bids": false,
+    "competition_webpage": {
+      "link": null,
+      "name": "tbc"
+    }
+  }
+]
