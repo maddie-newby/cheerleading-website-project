@@ -13,29 +13,37 @@ const BidTeams = () => {
       </h3>
       <ul className="nav nav-tabs mb-4">
         <li className="nav-item">
-          <a href="#home" className="nav-link active" data-bs-toggle="tab">
+          <a
+            href="#cheerleading-worlds"
+            className="nav-link active"
+            data-bs-toggle="tab"
+          >
             Cheerleading Worlds
           </a>
         </li>
         <li className="nav-item">
-          <a href="#profile" className="nav-link" data-bs-toggle="tab">
+          <a href="#summit-cheer" className="nav-link" data-bs-toggle="tab">
             Summit (cheer)
           </a>
         </li>
         <li className="nav-item">
-          <a href="#messages" className="nav-link" data-bs-toggle="tab">
+          <a
+            href="#allstar-worlds-cheer"
+            className="nav-link"
+            data-bs-toggle="tab"
+          >
             Allstar Worlds (cheer)
           </a>
         </li>
       </ul>
       <div className="tab-content">
-        <div className="tab-pane fade show active" id="home">
+        <div className="tab-pane fade show active" id="cheerleading-worlds">
           <CheerWorlds />
         </div>
-        <div className="tab-pane fade" id="profile">
+        <div className="tab-pane fade" id="summit-cheer">
           <CheerSummit />
         </div>
-        <div className="tab-pane fade" id="messages">
+        <div className="tab-pane fade" id="allstar-worlds-cheer">
           <p>Messages tab content ...</p>
         </div>
       </div>
