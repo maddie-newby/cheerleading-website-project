@@ -81,6 +81,15 @@
     "gym_instagram": "https://www.instagram.com/storm_athleticsuk/?hl=en"
   },
   {
+    "gym_name": "Top Gun All Stars UK",
+    "team_name": "Mint",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/topgunjagsuk/?hl=en"
+  },
+  {
     "gym_name": "Tyneside Ignite",
     "team_name": "Obsidian",
     "division": "IU16 L1",
@@ -116,15 +125,7 @@
     "team_instagram": "https://www.instagram.com/weaponx_wca/?hl=en",
     "gym_instagram": "https://www.instagram.com/wca_uk/?hl=en"
   },
-  {
-    "gym_name": "Top Gun All Stars UK",
-    "team_name": "Mint",
-    "division": "IU16 L1",
-    "current_bid": "AL",
-    "bid_provider": "FC",
-    "team_instagram": "",
-    "gym_instagram": "https://www.instagram.com/topgunjagsuk/?hl=en"
-  },
+
   {
     "gym_name": "Twisters Elite",
     "team_name": "ICE",
