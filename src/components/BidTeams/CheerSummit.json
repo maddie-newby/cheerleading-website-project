@@ -1,0 +1,326 @@
+[
+  {
+    "gym_name": "Altidude Cheer",
+    "team_name": "Avalanche",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/altitudecheer/?hl=en"
+  },
+  {
+    "gym_name": "Black Diamonds",
+    "team_name": "Junior Ruby",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "BCA",
+    "team_instagram": "https://www.instagram.com/blackdiamonds_juniorruby/?hl=en",
+    "gym_instagram": "https://www.instagram.com/black_diamondsx/?hl=en"
+  },
+  {
+    "gym_name": "Coalition Allstars",
+    "team_name": "Ultra",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/coalition_allstars/?hl=en"
+  },
+  {
+    "gym_name": "Derwent Valley Allstars",
+    "team_name": "Royalty",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "BCA",
+    "team_instagram": "https://www.instagram.com/dva_royalty/?hl=en",
+    "gym_instagram": "https://www.instagram.com/derwentvalleyallstars/?hl=en"
+  },
+  {
+    "gym_name": "Ice Fusion",
+    "team_name": "Code Black",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "Legacy",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/ice_fusion_/?hl=en"
+  },
+  {
+    "gym_name": "Mystique Cheer & Dance",
+    "team_name": "Mockingjay",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "ICC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/mystique_cheer_and_dance/?hl=en"
+  },
+  {
+    "gym_name": "North East Cheer",
+    "team_name": "Fire",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/north_east_cheer/?hl=en"
+  },
+  {
+    "gym_name": "South Tyneside Jets Cheerleading",
+    "team_name": "Galaxy",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "https://www.instagram.com/southtynesidejets.galaxy/?hl=en",
+    "gym_instagram": "https://www.instagram.com/southtynesidejetscheerleading/?hl=en"
+  },
+  {
+    "gym_name": "Storm Athletics",
+    "team_name": "Hail",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "ICC",
+    "team_instagram": "https://www.instagram.com/stormathletics.hail/?hl=en",
+    "gym_instagram": "https://www.instagram.com/storm_athleticsuk/?hl=en"
+  },
+  {
+    "gym_name": "Tyneside Ignite",
+    "team_name": "Obsidian",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "https://www.instagram.com/tynesideignite_international/?hl=en",
+    "gym_instagram": "https://www.instagram.com/tyneside_ignite_cheerleading/?hl=en"
+  },
+  {
+    "gym_name": "Unity Allstars",
+    "team_name": "Peppermint",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "Legacy",
+    "team_instagram": "https://www.instagram.com/unity_peppermint/?hl=en",
+    "gym_instagram": "https://www.instagram.com/unity_allstars/?hl=en"
+  },
+  {
+    "gym_name": "Vista Twisters",
+    "team_name": "Nemesis",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/vista_twisters_official/?hl=en"
+  },
+  {
+    "gym_name": "Wolverines Cheerleading Academy",
+    "team_name": "Weapon X",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "https://www.instagram.com/weaponx_wca/?hl=en",
+    "gym_instagram": "https://www.instagram.com/wca_uk/?hl=en"
+  },
+  {
+    "gym_name": "Top Gun All Stars UK",
+    "team_name": "Mint",
+    "division": "IU16 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/topgunjagsuk/?hl=en"
+  },
+  {
+    "gym_name": "Twisters Elite",
+    "team_name": "ICE",
+    "division": "IU18 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/twisterscheerleading_irl/?hl=en"
+  },
+  {
+    "gym_name": "Black Ice Academy",
+    "team_name": "Dauntless",
+    "division": "IU18 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/blackiceacademy/?hl=en"
+  },
+  {
+    "gym_name": "Top Gun All Stars UK",
+    "team_name": "Shadow",
+    "division": "IU18 L1",
+    "current_bid": "Full Paid",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/topgunjagsuk/?hl=en"
+  },
+  {
+    "gym_name": "ACA",
+    "team_name": "Apollo",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/aylesbury_cheerleading_academy/?hl=en"
+  },
+  {
+    "gym_name": "Airborn Allstars",
+    "team_name": "Delta",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/airborn_all_stars/?hl=en"
+  },
+  {
+    "gym_name": "Chiltern Cheetahs",
+    "team_name": "Hurricane",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/chilterncheetahs/?hl=en"
+  },
+  {
+    "gym_name": "East Elite Allstars",
+    "team_name": "Colonels",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/easteliteallstars/?hl=en"
+  },
+  {
+    "gym_name": "Eclipse Allstars",
+    "team_name": "Discovery",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "https://www.instagram.com/eclipse_allstars_discovery/?hl=en",
+    "gym_instagram": "https://www.instagram.com/eclipseallstars/?hl=en"
+  },
+  {
+    "gym_name": "ICE Athletics",
+    "team_name": "Glacier Girls",
+    "division": "IU16 L2",
+    "current_bid": "Full Paid",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/iceathleticscheer/?hl=en"
+  },
+  {
+    "gym_name": "Lazer Cheer Academy",
+    "team_name": "Ice Queens",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/lazer_cheer/?hl=en"
+  },
+  {
+    "gym_name": "Limitless Allstars",
+    "team_name": "Shockwaves",
+    "division": "IU16 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/limitlessallstars/?hl=en"
+  },
+  {
+    "gym_name": "Casablanca Cheer",
+    "team_name": "Halo",
+    "division": "IU18 L2",
+    "current_bid": "AL",
+    "bid_provider": "ICC",
+    "team_instagram": "https://www.instagram.com/casablancahalo/?hl=en",
+    "gym_instagram": "https://www.instagram.com/casablancacgt/?hl=en"
+  },
+  {
+    "gym_name": "Twisted Cheer & Dance",
+    "team_name": "Nemesis",
+    "division": "IU18 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/twistedcandd/?hl=en"
+  },
+  {
+    "gym_name": "Tyneside Ignite",
+    "team_name": "Hellfire",
+    "division": "IU18 L2",
+    "current_bid": "AL",
+    "bid_provider": "BCA",
+    "team_instagram": "https://www.instagram.com/tynesideignite_international/?hl=en",
+    "gym_instagram": "https://www.instagram.com/tyneside_ignite_cheerleading/?hl=en"
+  },
+  {
+    "gym_name": "White Rose Cheer",
+    "team_name": "O2",
+    "division": "IU18 L2",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/whiterosecheer/?hl=en"
+  },
+  {
+    "gym_name": "ACA",
+    "team_name": "Painted Ladies",
+    "division": "IU16 L3",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/aylesbury_cheerleading_academy/?hl=en"
+  },
+  {
+    "gym_name": "Gymfinity Sports Academy",
+    "team_name": "Icons",
+    "division": "IU16 L3",
+    "current_bid": "Full Paid",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/gymfinitycheer/?hl=en"
+  },
+  {
+    "gym_name": "Limitless Allstars",
+    "team_name": "Neptune",
+    "division": "IU16 L3",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/limitlessallstars/?hl=en"
+  },
+  {
+    "gym_name": "Kent Cheer Academy",
+    "team_name": "Zirconium",
+    "division": "IU18 L3",
+    "current_bid": "AL",
+    "bid_provider": "Legacy",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/kentcheeracademy/?hl=en"
+  },
+  {
+    "gym_name": "North East Cheer",
+    "team_name": "Onyx",
+    "division": "IU18 L3",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/north_east_cheer/?hl=en"
+  },
+  {
+    "gym_name": "North East Cheer",
+    "team_name": "Solitaire",
+    "division": "IO L4",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "https://www.instagram.com/northeast.solitaire/?hl=en",
+    "gym_instagram": "https://www.instagram.com/north_east_cheer/?hl=en"
+  },
+  {
+    "gym_name": "Vista Twisters",
+    "team_name": "V4",
+    "division": "IO L4",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "https://www.instagram.com/vistatwisters_v4/?hl=en",
+    "gym_instagram": "https://www.instagram.com/vista_twisters_official/?hl=en"
+  }
+]
