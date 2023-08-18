@@ -19,7 +19,9 @@ thead {
 }
 
 .col-1,
-.col-2 {
+.col-2,
+.col-3,
+.table-header {
   background-color: rgb(73, 190, 183, 0.8) !important;
   border-top: 2px solid #dee2e6;
 }

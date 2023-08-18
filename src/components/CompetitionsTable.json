@@ -92,7 +92,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "Christmas ICE Breaker - Extravaganza",
+    "competition_name": "Christmas ICE Breaker",
     "date": "9th-10th Dec 2023",
     "location": "Fenton Manor, Stoke-on-Trent",
     "sprung_floor": true,
@@ -514,7 +514,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "Sub Zero - Extravaganza",
+    "competition_name": "Sub Zero",
     "date": "9th-10th Mar 2024",
     "location": "Ravenscraig Regional Sports Facility, Motherwell",
     "sprung_floor": true,
@@ -559,7 +559,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "ICE Cooler - Extra Cool & Too Cool For School",
+    "competition_name": "ICE Cooler",
     "date": "16th-17th Mar 2024",
     "location": "Fenton Manor, Stoke-on-Trent",
     "sprung_floor": true,
@@ -829,7 +829,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "ICE Blast - Extra Cool",
+    "competition_name": "ICE Blast",
     "date": "11th-12th May 2024",
     "location": "K2 Arena, Crawley",
     "sprung_floor": true,
@@ -859,7 +859,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "Summer Meltdown - Extra Cool",
+    "competition_name": "Summer Meltdown",
     "date": "18th-19th May 2024",
     "location": "Doncaster Dome, Doncaster",
     "sprung_floor": true,
@@ -949,7 +949,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "Southern Chill - Extravaganza",
+    "competition_name": "Southern Chill",
     "date": "1st-2nd Jun 2024",
     "location": "Worcester University Arena, Worcester",
     "sprung_floor": true,
@@ -994,7 +994,7 @@
   },
   {
     "event_provider": "ICE",
-    "competition_name": "Big Chill - Extravaganza",
+    "competition_name": "Big Chill",
     "date": "8th-9th Jun 2024",
     "location": "Bushfield Leisure Centre, Peterborough",
     "sprung_floor": false,
