@@ -35,14 +35,14 @@ export default function CompetitionsItem(props) {
             </td>
             <td className="text-center">
               {competitionsItem.summit_bids && (
-                <i class="fa-solid fa-check"></i>
+                <i className="fa-solid fa-check"></i>
               )}
               {competitionsItem.summit_bids_year &&
                 ` (${competitionsItem.summit_bids_year})`}
             </td>
             <td className="text-center">
               {competitionsItem.worlds_bids && (
-                <i class="fa-solid fa-check"></i>
+                <i className="fa-solid fa-check"></i>
               )}
               {competitionsItem.worlds_bids_year &&
                 ` (${competitionsItem.worlds_bids_year})`}
