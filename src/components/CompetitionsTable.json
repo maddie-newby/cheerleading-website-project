@@ -8,7 +8,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/jungle-fever/",
       "name": "FC Jungle Fever webpage"
@@ -23,7 +25,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://soarcheeranddance.co.uk/events/soar-rise-2023/",
       "name": "SOAR Rise webpage"
@@ -40,6 +44,7 @@
     "summit_bids": true,
     "summit_bids_year": 2024,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/brings-it-on/",
       "name": "FC Brings it on webpage"
@@ -54,7 +59,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/winter-wonderland/",
       "name": "FC Winter Wonderland"
@@ -69,7 +76,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/winter-weekender/",
       "name": "BCA Winter Weekender webpage"
@@ -84,7 +93,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-frost-festival-22",
       "name": "Cheer City Frost Festival webpage"
@@ -99,7 +110,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/christmas-ice-breaker-2023/",
       "name": "ICE Christmas ICE Breaker webpage"
@@ -114,6 +127,7 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": true,
     "worlds_bids_year": 2024,
     "competition_webpage": {
@@ -130,7 +144,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/fc-essentials/",
       "name": "FC Essentials - South webpage"
@@ -145,7 +161,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.dc12.co.uk/retro",
       "name": "DC12 Retro webpage"
@@ -160,7 +178,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://soarcheeranddance.co.uk/events/soar-ascend-2024/",
       "name": "SOAR Ascend webpage"
@@ -175,7 +195,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/cheer-bid-battle/",
       "name": "BCA Cheer Bid Battle webpage"
@@ -190,7 +212,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/super-classic/",
       "name": "BCA Super Classic webpage"
@@ -205,7 +229,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/northern-championships/",
       "name": "ICC Northern Championships webpage"
@@ -220,7 +246,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-frost-festival-23",
       "name": "Cheer City Winder Spectacular webpage"
@@ -235,7 +263,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-spring-thaw-out-2024/",
       "name": "ICE Spring Thaw Out webpage"
@@ -250,7 +280,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/southern-championships/",
       "name": "ICC Southern Championships webpage"
@@ -265,7 +297,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.dc12.co.uk/neonhull",
       "name": "DC12 Neon webpage"
@@ -280,7 +314,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-winter-spectacular-24",
       "name": "Cheer City Spring Open webpage"
@@ -295,7 +331,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/welsh-open/",
       "name": "ICC Western webpage"
@@ -310,7 +348,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.legacycheeranddance.com/",
       "name": "Legacy Cheer and Dance website"
@@ -325,7 +365,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/scottish-sensation/",
       "name": "BCA Scottish Sensation webpage"
@@ -340,7 +382,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/heart-of-england/",
       "name": "FC Heart of England webpage"
@@ -355,7 +399,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-frost-fest-2024/",
       "name": "ICE Frost Fest webpage"
@@ -370,7 +416,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.legacycheeranddance.com/",
       "name": "Legacy Cheer and Dance website"
@@ -385,7 +433,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/university-nationals/",
       "name": "FC University Nationals webpage"
@@ -400,7 +450,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/icc-southern-pt-2/",
       "name": "ICC Southern Pt.2 Championships webpage"
@@ -415,7 +467,9 @@
     "prep_divions": "n/a",
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ude-dance-fiesta-2024/",
       "name": "ICE UDE Dance Fiesta webpage"
@@ -430,7 +484,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-spring-open-24",
       "name": "Cheer City Allstar Championship webpage"
@@ -445,7 +501,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/circus-spectacular/",
       "name": "FC Circus Spectacular webpage"
@@ -462,6 +520,7 @@
     "summit_bids": true,
     "summit_bids_year": 2024,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.varsity.com/jf/jamfest-northern-jam/",
       "name": "Jamfest Northern Jam webpage"
@@ -476,7 +535,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://soarcheeranddance.co.uk/events/reign-supreme-2024/",
       "name": "SOAR Reign Supreme webpage"
@@ -491,7 +552,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/essentials-north/",
       "name": "FC Essentials - North webpage"
@@ -506,7 +569,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/cymru-clash/",
       "name": "BCA Cymru Clash webpage"
@@ -521,7 +586,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-sub-zero/",
       "name": "ICE Sub Zero webpage"
@@ -536,7 +603,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/university-nationals/",
       "name": "BCA Univerity Nationals webpage"
@@ -551,7 +620,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/spotlight-showdown/",
       "name": "FC Spotlight Showdown webpage"
@@ -566,7 +637,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-cooler-2024/",
       "name": "ICE Cooler webpage"
@@ -581,7 +654,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": true,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/british-open/",
       "name": "ICC British Open & University Nationals webpage"
@@ -596,7 +671,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/dance-revolution/",
       "name": "BCA Dance Revolution webpage"
@@ -611,7 +688,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/dance-bid-battle/",
       "name": "BCA Dance Bid Battle webpage"
@@ -626,7 +705,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.dc12.co.uk/crusademanchester",
       "name": "DC12 Crusade webpage"
@@ -641,7 +722,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.legacycheeranddance.com/",
       "name": "Legacy Cheer and Dance website"
@@ -656,7 +739,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.legacycheeranddance.com/",
       "name": "Legacy Cheer and Dance website"
@@ -671,7 +756,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.instagram.com/cheerfestival_events/",
       "name": "Cheer Festival Instagram page"
@@ -686,7 +773,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/spring-spirit/",
       "name": "BCA Spring Spirit webpage"
@@ -701,7 +790,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.dc12.co.uk/competitions",
       "name": "DC12 competitions webpage"
@@ -716,7 +807,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/adventure-in-atlantis/",
       "name": "FC Adventure in Atlantis webpage"
@@ -731,7 +824,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/steel-the-show/",
       "name": "FC Future Dance - Steel the Show webpage"
@@ -746,7 +841,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/future-dance/",
       "name": "FC Future Dance - Own the Floor webpage"
@@ -761,7 +858,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/essentials-nationals/",
       "name": "FC Future Dance - Own the Floor webpage"
@@ -776,7 +875,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/schools-out/",
       "name": "FC Schools Out webpage"
@@ -790,8 +891,10 @@
     "sprung_floor": false,
     "prep_divions": true,
     "asw_bids": false,
-    "summit_bids": true,
+    "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/fc-amsterdam/",
       "name": "FC Amsterdam webpage"
@@ -806,7 +909,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-allstars-championship-24",
       "name": "Cheer City Summer Showdown webpage"
@@ -821,7 +926,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.instagram.com/cheerfestival_events/",
       "name": "Cheer Festival Instagram page"
@@ -836,7 +943,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-blast-2024/",
       "name": "ICE Blast webpage"
@@ -851,7 +960,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-summer-showdown-24",
       "name": "Cheer City Summer Games webpage"
@@ -866,7 +977,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-summer-meltdown-2024/",
       "name": "ICE Summer Meltdown webpage"
@@ -881,7 +994,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/superhero-spirit-challenge/",
       "name": "FC Superhero Spirit Challenge webpage"
@@ -896,7 +1011,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": true,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/allstar-nationals/",
       "name": "BCA Allstar Nationals webpage"
@@ -911,7 +1028,9 @@
     "prep_divions": "n/a",
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ude-lets-dance-2024/",
       "name": "ICE UDE Let's Dance webpage"
@@ -926,7 +1045,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/summer-showdown/",
       "name": "BCA Summer Showdown webpage"
@@ -941,7 +1062,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheercity.co.uk/copy-of-summer-games-24",
       "name": "Cheer City Nationals webpage"
@@ -956,7 +1079,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-southern-chill-2024/",
       "name": "ICE Southern Chill webpage"
@@ -971,7 +1096,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/icc-southern-jam/",
       "name": "ICC Southern Jam webpage"
@@ -986,7 +1113,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.cheerleading.org.uk/summer-spotlight/",
       "name": "BCA Summer Spotlight webpage"
@@ -1001,7 +1130,9 @@
     "prep_divions": true,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-big-chill-2024/",
       "name": "ICE Big Chill webpage"
@@ -1016,7 +1147,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": true,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.legacycheeranddance.com/",
       "name": "Legacy Cheer and Dance website"
@@ -1031,7 +1164,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/fc-barcelona/",
       "name": "FC Barcelona webpage"
@@ -1046,7 +1181,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://soarcheeranddance.co.uk/events/soar-zero-gravity-2024/",
       "name": "SOAR Zero Gravity webpage"
@@ -1061,7 +1198,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": true,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://www.varsity.com/jf/jamfest-europe/",
       "name": "Jamfest Europe webpage"
@@ -1076,7 +1215,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/battle-of-champions/",
       "name": "ICC Battle of Champions webpage"
@@ -1091,7 +1232,9 @@
     "prep_divions": true,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/british-open-speciality-nationals/",
       "name": "ICC British Open Pt.2 webpage"
@@ -1106,7 +1249,9 @@
     "prep_divions": false,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://incrediblycoolevents.co.uk/events/ice-championships-2024/",
       "name": "ICE Championships webpage"
@@ -1121,7 +1266,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": true,
+    "summit_bids_year": null,
     "worlds_bids": true,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://futurecheer.net/live-competitions/fc-internationals/",
       "name": "FC Internationals webpage"
@@ -1136,7 +1283,9 @@
     "prep_divions": false,
     "asw_bids": false,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": "https://w-cheer.net/icc-competitions/summer-jam/",
       "name": "ICC Summer Jam webpage"
@@ -1151,7 +1300,9 @@
     "prep_divions": false,
     "asw_bids": true,
     "summit_bids": false,
+    "summit_bids_year": null,
     "worlds_bids": false,
+    "worlds_bids_year": null,
     "competition_webpage": {
       "link": null,
       "name": "tbc"
