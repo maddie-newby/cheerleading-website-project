@@ -77,7 +77,7 @@
     "division": "IU185",
     "current_bid": "AL",
     "bid_provider": "BCA",
-    "team_instagram": "",
+    "team_instagram": "https://www.instagram.com/vistatwisters_mi5/",
     "gym_instagram": "https://www.instagram.com/vista_twisters_official/?hl=en"
   },
   {
@@ -297,15 +297,6 @@
     "gym_instagram": "https://www.instagram.com/bournemouthelite/?hl=en"
   },
   {
-    "gym_name": "Crimson Heat Tigers",
-    "team_name": "Fury",
-    "division": "IO6",
-    "current_bid": "AL",
-    "bid_provider": "BCA",
-    "team_instagram": "https://www.instagram.com/crimsonheatfury/?hl=en",
-    "gym_instagram": "https://www.instagram.com/crimsonheattigers/?hl=en"
-  },
-  {
     "gym_name": "Gymfinity Cheer & Dance",
     "team_name": "Ladies of the Crown",
     "division": "IO6",
@@ -313,6 +304,15 @@
     "bid_provider": "BCA",
     "team_instagram": "https://www.instagram.com/lotc.gymfinity/?hl=en",
     "gym_instagram": "https://www.instagram.com/gymfinitycheer/?hl=en"
+  },
+  {
+    "gym_name": "Crimson Heat Tigers",
+    "team_name": "Fury",
+    "division": "IO6",
+    "current_bid": "AL",
+    "bid_provider": "BCA",
+    "team_instagram": "https://www.instagram.com/crimsonheatfury/?hl=en",
+    "gym_instagram": "https://www.instagram.com/crimsonheattigers/?hl=en"
   },
   {
     "gym_name": "Unity Allstars",
@@ -330,7 +330,7 @@
     "current_bid": "AL",
     "bid_provider": "BCA",
     "team_instagram": "",
-    "gym_instagram": "https://www.instagram.com/East Midlands Cheerleading Academy_allstar_cheer/?hl=en"
+    "gym_instagram": "https://www.instagram.com/emca_allstar_cheer/"
   },
   {
     "gym_name": "Coventry Dynamite",
@@ -420,7 +420,7 @@
     "current_bid": "AL",
     "bid_provider": "BCA",
     "team_instagram": "",
-    "gym_instagram": "https://www.instagram.com/East Midlands Cheerleading Academy_allstar_cheer/?hl=en"
+    "gym_instagram": "https://www.instagram.com/emca_allstar_cheer/"
   },
   {
     "gym_name": "Trailblazers Allstars",

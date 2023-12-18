@@ -324,15 +324,6 @@
     "gym_instagram": "https://www.instagram.com/limitlessallstars/?hl=en"
   },
   {
-    "gym_name": "Cheer Starz Academy",
-    "team_name": "Pearl",
-    "division": "IU18 L3",
-    "current_bid": "AL",
-    "bid_provider": "FC",
-    "team_instagram": "",
-    "gym_instagram": "https://www.instagram.com/cheer_starz_academy/"
-  },
-  {
     "gym_name": "Kent Cheer Academy",
     "team_name": "Zirconium",
     "division": "IU18 L3",
@@ -351,6 +342,15 @@
     "gym_instagram": "https://www.instagram.com/north_east_cheer/?hl=en"
   },
   {
+    "gym_name": "Cheer Starz Academy",
+    "team_name": "Pearl",
+    "division": "IU18 L4",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/cheer_starz_academy/"
+  },
+  {
     "gym_name": "North East Cheer",
     "team_name": "Solitaire",
     "division": "IO L4",
@@ -358,14 +358,5 @@
     "bid_provider": "Jamfest",
     "team_instagram": "https://www.instagram.com/northeast.solitaire/?hl=en",
     "gym_instagram": "https://www.instagram.com/north_east_cheer/?hl=en"
-  },
-  {
-    "gym_name": "Vista Twisters",
-    "team_name": "V4",
-    "division": "IO L4",
-    "current_bid": "AL",
-    "bid_provider": "Jamfest",
-    "team_instagram": "https://www.instagram.com/vistatwisters_v4/?hl=en",
-    "gym_instagram": "https://www.instagram.com/vista_twisters_official/?hl=en"
   }
 ]

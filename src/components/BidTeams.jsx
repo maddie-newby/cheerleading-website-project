@@ -28,6 +28,15 @@ const BidTeams = () => {
         </li>
         <li className="nav-item">
           <a
+            href="#youth-summit-cheer"
+            className="nav-link"
+            data-bs-toggle="tab"
+          >
+            Youth Summit (cheer)
+          </a>
+        </li>
+        <li className="nav-item">
+          <a
             href="#allstar-worlds-cheer"
             className="nav-link"
             data-bs-toggle="tab"

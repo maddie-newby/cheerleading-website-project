@@ -1,0 +1,47 @@
+[
+  {
+    "gym_name": "Chiltern Cheetahs",
+    "team_name": "Haste",
+    "division": "IU12 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "https://www.instagram.com/cheetahshaste/",
+    "gym_instagram": "https://www.instagram.com/chilterncheetahs/"
+  },
+  {
+    "gym_name": "Storm Athletics",
+    "team_name": "Lightning",
+    "division": "IU12 L1",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/storm_athleticsuk/"
+  },
+  {
+    "gym_name": "TopGun Allstars UK",
+    "team_name": "Lime",
+    "division": "IU12 L1",
+    "current_bid": "Full Paid",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/topgunjagsuk/"
+  },
+  {
+    "gym_name": "Vibes Cheerleading",
+    "team_name": "Joyful",
+    "division": "IU12 L1",
+    "current_bid": "AL",
+    "bid_provider": "FC",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/vibescheerleadingteam/"
+  },
+  {
+    "gym_name": "Cheer Force Knights",
+    "team_name": "Youth Reign",
+    "division": "IU12 L2",
+    "current_bid": "AL",
+    "bid_provider": "Jamfest",
+    "team_instagram": "",
+    "gym_instagram": "https://www.instagram.com/cheerforceknights_/"
+  }
+]
