@@ -1,5 +1,5 @@
 import React from "react";
-import data from "./CheerSummit.json";
+import data from "./CheerYouthSummit.json";
 import CheerYouthSummitItem from "./CheerYouthSummitItem";
 
 const CheerYouthSummit = () => {
