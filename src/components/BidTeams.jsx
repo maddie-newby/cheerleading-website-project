@@ -2,6 +2,7 @@ import React from "react";
 import "./BidTeams.css";
 import CheerWorlds from "./BidTeams/CheerWorlds";
 import CheerSummit from "./BidTeams/CheerSummit";
+import CheerYouthSummit from "./BidTeams/CheerYouthSummit";
 
 const BidTeams = () => {
   return (
@@ -51,6 +52,9 @@ const BidTeams = () => {
         </div>
         <div className="tab-pane fade" id="summit-cheer">
           <CheerSummit />
+        </div>
+        <div className="tab-pane fade" id="summit-cheer">
+          <CheerYouthSummit />
         </div>
         <div className="tab-pane fade" id="allstar-worlds-cheer">
           <p>Messages tab content ...</p>
