@@ -53,7 +53,7 @@ const BidTeams = () => {
         <div className="tab-pane fade" id="summit-cheer">
           <CheerSummit />
         </div>
-        <div className="tab-pane fade" id="summit-cheer">
+        <div className="tab-pane fade" id="youth-summit-cheer">
           <CheerYouthSummit />
         </div>
         <div className="tab-pane fade" id="allstar-worlds-cheer">
