@@ -37,4 +37,4 @@ const CheerYouthSummit = () => {
   );
 };
 
-export default CheerSummit;
+export default CheerYouthSummit;
